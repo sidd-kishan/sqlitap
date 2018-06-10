@@ -1,0 +1,170 @@
+{
+  "methodDescription": "Console config",
+  "experimentDate": "Jun 6, 2018 4:53:07 PM",
+  "bestSolution": {
+    "solutionJS": " id=(?=(\\d+))\\1;",
+    "trainingPerformances": {
+      "character recall": 1.0,
+      "character precision": 1.0,
+      "match precision": 1.0,
+      "character accuracy": 1.0,
+      "match f-measure": 1.0,
+      "match recall": 1.0
+    },
+    "validationPerformances": {
+      "character recall": 1.0,
+      "character precision": 1.0,
+      "match precision": 1.0,
+      "character accuracy": 1.0,
+      "match f-measure": 1.0,
+      "match recall": 1.0
+    },
+    "learningPerformances": {
+      "character recall": 1.0,
+      "character precision": 1.0,
+      "match precision": 1.0,
+      "character accuracy": 1.0,
+      "match f-measure": 1.0,
+      "match recall": 1.0
+    },
+    "solution": " id=\\d++;",
+    "fitness": [
+      0.0,
+      0.0,
+      9.0
+    ]
+  },
+  "bestExtractions": [
+    [
+      {
+        "start": 27,
+        "end": 33
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 33
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 33
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 33
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 33
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 33
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 34
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ]
+  ],
+  "bestExtractionsStrings": [
+    [
+      " id=1;"
+    ],
+    [
+      " id=2;"
+    ],
+    [
+      " id=3;"
+    ],
+    [
+      " id=4;"
+    ],
+    [
+      " id=5;"
+    ],
+    [
+      " id=6;"
+    ],
+    [
+      " id=66;"
+    ],
+    [
+      " id=123;"
+    ],
+    [
+      " id=111;"
+    ]
+  ],
+  "bestExtractionsStats": [
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    }
+  ],
+  "overallExecutionTimeMillis": 4013,
+  "numberMatches": 9,
+  "numberUnmatches": 9,
+  "numberMatchedChars": 59,
+  "numberUnmatchedChars": 243,
+  "numberAnnotatedChars": 302,
+  "numberAllChars": 302,
+  "numberTrainingMatches": 5,
+  "numberTrainingUnmatches": 5,
+  "characterEvaluations": 2672000
+}

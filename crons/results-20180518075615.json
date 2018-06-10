@@ -1,0 +1,235 @@
+{
+  "methodDescription": "Console config",
+  "experimentDate": "May 18, 2018 7:56:10 AM",
+  "bestSolution": {
+    "solutionJS": " id=(?=(\\w*))\\1;",
+    "trainingPerformances": {
+      "character recall": 1.0,
+      "character precision": 1.0,
+      "match precision": 1.0,
+      "character accuracy": 1.0,
+      "match f-measure": 1.0,
+      "match recall": 1.0
+    },
+    "validationPerformances": {
+      "character recall": 1.0,
+      "character precision": 1.0,
+      "match precision": 1.0,
+      "character accuracy": 1.0,
+      "match f-measure": 1.0,
+      "match recall": 1.0
+    },
+    "learningPerformances": {
+      "character recall": 1.0,
+      "character precision": 1.0,
+      "match precision": 1.0,
+      "character accuracy": 1.0,
+      "match f-measure": 1.0,
+      "match recall": 1.0
+    },
+    "solution": " id=\\w*+;",
+    "fitness": [
+      0.0,
+      0.0,
+      9.0
+    ]
+  },
+  "bestExtractions": [
+    [
+      {
+        "start": 27,
+        "end": 33
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 33
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 33
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 34
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 34
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 35
+      }
+    ],
+    [
+      {
+        "start": 27,
+        "end": 34
+      }
+    ]
+  ],
+  "bestExtractionsStrings": [
+    [
+      " id=1;"
+    ],
+    [
+      " id=2;"
+    ],
+    [
+      " id=3;"
+    ],
+    [
+      " id=03;"
+    ],
+    [
+      " id=04;"
+    ],
+    [
+      " id=005;"
+    ],
+    [
+      " id=006;"
+    ],
+    [
+      " id=007;"
+    ],
+    [
+      " id=008;"
+    ],
+    [
+      " id=009;"
+    ],
+    [
+      " id=010;"
+    ],
+    [
+      " id=011;"
+    ],
+    [
+      " id=012;"
+    ],
+    [
+      " id=13;"
+    ]
+  ],
+  "bestExtractionsStats": [
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    }
+  ],
+  "overallExecutionTimeMillis": 4237,
+  "numberMatches": 14,
+  "numberUnmatches": 14,
+  "numberMatchedChars": 103,
+  "numberUnmatchedChars": 378,
+  "numberAnnotatedChars": 481,
+  "numberAllChars": 481,
+  "numberTrainingMatches": 7,
+  "numberTrainingUnmatches": 7,
+  "characterEvaluations": 3856000
+}
